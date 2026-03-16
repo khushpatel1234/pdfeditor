@@ -2,7 +2,7 @@
 
 A fully browser-based PDF editor built with HTML, CSS, and JavaScript. No installs, no backend, no server — just open the link and start editing.
 
-**Live Demo:** [khushpatel1234.github.io/pdf-editor](https://khushpatel1234.github.io/pdf-editor)
+**Live Demo:** [khushpatel1234.github.io/pdfeditor](https://khushpatel1234.github.io/pdfeditor)
 
 ---
 
